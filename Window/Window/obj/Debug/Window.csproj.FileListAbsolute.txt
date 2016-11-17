@@ -1,0 +1,10 @@
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\bin\Debug\Window.exe
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\bin\Debug\Window.pdb
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.Login.resources
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.Properties.Resources.resources
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.csproj.GenerateResource.Cache
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.exe.licenses
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.exe
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.pdb
+E:\app\Project\visual studio 2013\GoodCode\Window\Window\obj\Debug\Window.WinAdmin.resources
